@@ -1,1 +1,1 @@
-# Full-Stack-Node-Express-MangoDB-Angular
+# Full-Stack-Node-Express-MongoDB-Angular
